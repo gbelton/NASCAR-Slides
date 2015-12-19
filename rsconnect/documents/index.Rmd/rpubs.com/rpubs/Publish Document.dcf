@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/135783/a1524c513ba24909bae76442f23d1b05
+url: http://rpubs.com/gbelton/135783
+when: 1450497271.47046
